@@ -1,0 +1,24 @@
+{
+  "name": "express-todo-crud",
+  "version": "1.0.0",
+  "description": "HTTP Methods. Express. File System Module. CRUD Operations. Using External Modules. Nodemon.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Express-Todo-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Express-Todo-CRUD/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Express-Todo-CRUD#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
